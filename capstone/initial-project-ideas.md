@@ -22,6 +22,9 @@ evaluation and players themselves know what to focus on to be judged as successf
 ## Predicting Human Activity Using a Smartphone
 **Problem:** Many people use smartphones as fitness trackers.  Smartphones have
 accelerometers and gyroscopes that record positional data that can be used
-to predict what specific activity a user is performing.
+to predict what specific activity a user is performing.  Having a smartphone fitness
+app that can automatically detect certain activities would be valuable to fitness
+enthusiasts who want seamless fitness tracking and data available to them even if they
+forget to turn their tracker on for an activity.
 
 **Data:** [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
