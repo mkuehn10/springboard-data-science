@@ -7,7 +7,7 @@ and general election campaign contributions could help predict how much
 and to who a person may donate to based on various factors such as occupation,
 location, or time the contribution was made.
 
-**Data:** <a href="http://classic.fec.gov/disclosurep/PDownload.do" target="_blank">Federal Election Commission Campaign Finance Data</a>
+**Data:** [Federal Election Commission Campaign Finance Data](http://classic.fec.gov/disclosurep/PDownload.do)
 
 ## Baseball All-Star/Hall of Fame Predictor
 **Problem:** A baseball professional who is responsible for player evaluation may
