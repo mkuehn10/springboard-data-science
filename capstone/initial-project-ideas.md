@@ -14,8 +14,8 @@ location, or time the contribution was made.
 want to know the most important attributes that contribute to player success.
 One way to measure success in baseball is for a player to be selected as an
 All-Star/Hall of Fame player.  Knowing which particular statistics and
-attributes would help player evaluation and players themselves know what to
-focus on to be judged as successful.
+attributes help someone become an All-Star/Hall of Famer would help player 
+evaluation and players themselves know what to focus on to be judged as successful.
 
 **Data:** [Lahman's Baseball Database](http://seanlahman.com/baseball-archive/statistics/)
 
