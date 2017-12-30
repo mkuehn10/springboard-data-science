@@ -3,7 +3,7 @@
 [Jupyter Notebook File](sliderule_dsi_json_exercise.ipynb)
 
 ## Summary
-JSON data from the World Bank Project was used to examine the top 10 countires with the most projwects and the top 10 major project themes.  There were several missing values for the major project themes, so steps were taken to fill in the missing values with known values from other projects (each theme is associated with a code; the codes were used to fill in the missing themes).  Through an iterative process, three methods were used to fill in the missing values:
+JSON data from the World Bank Project was used to examine the top 10 countires with the most projects and the top 10 major project themes.  There were several missing values for the major project themes, so steps were taken to fill in the missing values with known values from other projects (each theme is associated with a code; the codes were used to fill in the missing themes).  Through an iterative process, three methods were used to fill in the missing values:
 * Manually create a dictionary that mapped the projects codes to the project themes
 * Group the table by project theme and use an aggregate mean on the code column to map the codes to the themes
 * Ignore the rows with missing project themes, drop duplicate rows, and use the remaining distinct rows to map the codes to the themes
